@@ -1,0 +1,47 @@
+{
+  "name": "Zenitsu",
+  "version": "0.1.0",
+  "description": "Descreva seu bot aqui",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "ms": "^2.1.2",
+    "ytdl-core": "^3.1.1",
+    "yt-search": "^1.1.2",
+    "@discordjs/opus": "^0.3.2",
+    "nodemon": "^2.0.4",
+    "simple-youtube-api": "^5.2.1",
+    "quick.db": "^7.1.1",
+    "util": "^0.12.3",
+    "moment-duration-format": "^2.2.2",
+    "duck-duck-scrape": "^1.0.3",
+    "jimp": "^0.13.0",
+    "moment": "^2.26.0",
+    "fs": "^0.0.2",
+    "mathjs": "^6.6.5",
+    "firebase": "^7.15.0",
+    "canvas": "^2.6.1",
+    "node-superfetch": "^0.1.10",
+    "snekfetch": "^4.0.4",
+    "@vitalets/google-translate-api": "^3.0.0",
+    "node-opus": "^0.3.3",
+    "ffmpeg-binaries": "^4.0.0",
+    "opusscript": "^0.0.7"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/sung-jin-woo"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
